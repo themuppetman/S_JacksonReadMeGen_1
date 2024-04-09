@@ -17,8 +17,7 @@
   In the terminal, run - node index.js within the package.json file.   
   
   ## Usage
-  NodeJS - JSON - Markdown - Inquirer  
-  
+  NodeJS - JSON - Markdown - Inquirer - JavaScript - terminal
   ## Contributing
   N/A  
   
