@@ -15,7 +15,7 @@
   
   ## Installation
   In the terminal, run - node index.js within the package.json file.   
-  [![Watch Video](./Assets/README_ScreenShot.png)](https://youtu.be/aOi6xdK75uo)
+  [![Watch Video](./assets/README_ScreenShot.png)](https://youtu.be/aOi6xdK75uo)
   
   ## Usage
   NodeJS - JSON - Markdown - Inquirer  
@@ -29,7 +29,7 @@
   
   ## Questions
   If you have any questions, please contact me at sethjackson@sethshows.com.
-  You can find more of my work at themuppetman https://github.com/themuppetman.
+  You can find more of my work at https://github.com/themuppetman "themuppetman".
   
   ## License
   Licensed under the MIT license.[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
