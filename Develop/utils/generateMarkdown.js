@@ -75,7 +75,7 @@ function getLicenseBadge(license) {
   You can find more of my work at ${data.github}.
   
   ## License
-  Licensed under the ${data.license} license.
+  Licensed under the ${data.license} license.${licenseBadge}
   `;
   }
   

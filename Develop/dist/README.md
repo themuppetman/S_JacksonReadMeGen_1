@@ -1,5 +1,5 @@
 # S_JacksonReadMeGen_1
- by Seth Jackson [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+  by Seth Jackson [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
   
   ## Table of Contents
   - [Description](#description)
