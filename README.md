@@ -15,6 +15,7 @@
   
   ## Installation
   In the terminal, run - node index.js within the package.json file.   
+  [![Watch Video](./Assets/README_ScreenShot.png)](https://youtu.be/aOi6xdK75uo)
   
   ## Usage
   NodeJS - JSON - Markdown - Inquirer  
