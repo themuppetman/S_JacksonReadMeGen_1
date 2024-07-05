@@ -1,5 +1,7 @@
-# S_JacksonReadMeGen_1
+# WorkDay Schedule
   by Seth Jackson [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+
+  
   
   ## Table of Contents
   - [Description](#description)
@@ -11,13 +13,18 @@
   - [License](#license)
   
   ## Description
-  Using NodeJS, this command-line application will dynamically generate a professional README.md file using the user's input.  
+  This browser based application, enables the user to plan their busy schedule for any given day at work with ease. The colored time slots make current , past, and future events easy to identify.  
   
   ## Installation
-  In the terminal, run - node index.js within the package.json file.   
+  - Clone repository from GitHub
   
   ## Usage
-  NodeJS - JSON - Markdown - Inquirer - JavaScript - terminal
+  - HTML & CSS  
+  - Dynamic JavaScript
+  - Day.js
+  - jQuery
+
+  
   ## Contributing
   N/A  
   
@@ -27,7 +34,7 @@
   
   ## Questions
   If you have any questions, please contact me at sethjackson@sethshows.com.
-  You can find more of my work at themuppetman https://github.com/themuppetman.
+  You can find more of my work at https://github.com/themuppetman.
   
   ## License
   Licensed under the MIT license.[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
